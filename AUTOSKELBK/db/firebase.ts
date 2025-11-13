@@ -10,7 +10,7 @@ const firebaseConfig = {
   authDomain: "autoskelbk.firebaseapp.com",
   databaseURL: "https://autoskelbk-default-rtdb.firebaseio.com",
   projectId: "autoskelbk",
-  storageBucket: "autoskelbk.appspot.com", // ✅ corrected
+  storageBucket: "autoskelbk.appspot.com", 
   messagingSenderId: "115076600985",
   appId: "1:115076600985:web:040946f83374f27d41d408",
   measurementId: "G-32BL2243H4",
